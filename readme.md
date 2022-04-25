@@ -1,4 +1,4 @@
-###Pong AI ###
+###Pong AI
 The code below is created to make a Neural Network to play Pong game.
 
 The file **game.py** contains main loop of the game. Using this file it is possible
